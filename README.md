@@ -35,7 +35,7 @@ If you like to know the reputation of domaintools.com (remember, more higher mor
 
 ```
 <?php
-$reputation = domaintools()->reputation($domain);
+$reputation = domaintools()->reputation('domaintools.com');
 ```
 
 If you like to know the results of any term search
