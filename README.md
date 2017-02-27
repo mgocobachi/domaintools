@@ -46,9 +46,6 @@ $reputation = domaintools()->reputation('domaintools.com');
 
 If you like to know the results of any term search
 
-Note: it will return a collection, which is an object that could be acceded like
-an array or you can use its built-in functions like: map(), filter() and more.
-
 In this example we are filtering by those domains active only, and when
 we get the results then, search and filter where char_count is greater than 15.
 
