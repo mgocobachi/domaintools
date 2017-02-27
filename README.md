@@ -1,7 +1,7 @@
 <p align="center">
-<a href="https://travis-ci.org/mgocobachi/domaintools-api"><img src="https://travis-ci.org/mgocobachi/domaintools-api.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/mgocobachi/domaintools-api"><img src="https://poser.pugx.org/mgocobachi/domaintools-api/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/mgocobachi/domaintools-api"><img src="https://poser.pugx.org/mgocobachi/domaintools-api/license.svg" alt="License"></a>
+<a href="https://travis-ci.org/mgocobachi/domaintools"><img src="https://travis-ci.org/mgocobachi/domaintools.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/mgocobachi/domaintools"><img src="https://poser.pugx.org/mgocobachi/domaintools/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/mgocobachi/domaintools"><img src="https://poser.pugx.org/mgocobachi/domaintools/license.svg" alt="License"></a>
 </p>
 
 # DomainTools API
