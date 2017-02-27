@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://travis-ci.org/mgocobachi/domaintools-api"><img src="https://travis-ci.org/mgocobachi/domaintools-api.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/mgocobachi/domaintools-api"><img src="https://poser.pugx.org/mgocobachi/domaintools-api/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/mgocobachi/domaintools-api"><img src="https://poser.pugx.org/mgocobachi/domaintools-api/license.svg" alt="License"></a>
+</p>
+
 # DomainTools API
 
 The DomainTools API provides direct access to the same data that drives the powerful research tools on DomainTools.com.
