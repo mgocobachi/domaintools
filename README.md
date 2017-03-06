@@ -20,7 +20,7 @@ DomainTools helps security analysts turn threat data into threat intelligence. W
 
 ## How to use
 
-To use our package we defined a helper function called as 'domantools()', it
+To use the package is defined a helper function called as 'domantools()', it
 accept two parameters, the username and the API key. However, if you leave it
 in blank you will hit the API as anonymous and limited calls.
 
@@ -47,7 +47,7 @@ $reputation = domaintools()->reputation('domaintools.com');
 If you like to know the results of any term search
 
 In this example we are filtering by those domains active only, and when
-we get the results then, search and filter where char_count is greater than 15.
+get the results then, search and filter where char_count is greater than 15.
 
 ```
 <?php
@@ -73,4 +73,4 @@ $results = collection(domaintools()->search('domain tools', [
 
 ## More information
 
-For more information please visit [domaintols.com](http://www.domaintools.com/company/contact/)
+For more information please contact [domaintols.com](http://www.domaintools.com/company/contact/) about API details or documentation.
