@@ -1,6 +1,7 @@
 {
-  "name": "mgocobachi/domaintools-api",
-  "description": "Domaintools PHP API",
+  "name": "mgocobachi/domaintools",
+  "description": "Access to the Domaintools API",
+  "keywords": ["php", "domaintools", "api", "tool", "security", "whois", "domain", "analysts", "threat", "intelligence", "monitor"],
   "type": "library",
   "license": "MIT",
   "authors": [
